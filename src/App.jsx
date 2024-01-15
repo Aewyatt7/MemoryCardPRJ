@@ -8,7 +8,7 @@ function App() {
  
   
 return (
-<div><GameBoard cardInfo={3} /><Points  /></div>
+<div><GameBoard cardInfo={3} /></div>
 )
 }
 
